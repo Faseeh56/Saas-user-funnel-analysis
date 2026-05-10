@@ -126,7 +126,7 @@ streamlit run app.py
 Add your deployed Streamlit link here after deployment:
 
 ```text
-https://your-dashboard-name.streamlit.app
+[https://your-dashboard-name.streamlit.app](https://saas-user-funnel-analysis-yzknpzrdwbyzytysc3ubm4.streamlit.app/#user-behavior-by-funnel-stage)
 ```
 
 ---
